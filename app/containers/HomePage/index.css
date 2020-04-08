@@ -1,0 +1,42 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.logo {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.header {
+  padding: 0px;
+  background: rgb(248, 248, 248);
+  border-bottom: 2px solid #DBDEE0;
+}
+
+.navbar {
+  background: rgb(248, 248, 248);
+  float: right;
+  height: 61px;
+}
+
+.userLogo {
+  width: 60px;
+}
+
+.sidebarMenu {
+  height: 100%;
+  border-right: 0;
+  background: rgb(248, 248, 248);
+}
+
+
+/* .menu{
+    background: black;
+  } */
